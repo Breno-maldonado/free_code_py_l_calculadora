@@ -1,4 +1,4 @@
-# 🧮 Calculadora Simples em Python
+# 🧮 Calculadora em Python
 
 Este é um projeto fundamental de calculadora via linha de comando (CLI), desenvolvido como parte dos meus estudos de Python. O objetivo principal foi praticar a lógica de programação de forma independente, sem o auxílio de ferramentas de IA ou tutoriais externos durante a escrita do código.
 
